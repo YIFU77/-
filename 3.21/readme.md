@@ -1,4 +1,4 @@
-<img src="qrcode.png" />
+<img src="QR.png" />
 
 <a href="https://www.youtube.com/watch?v=aFrQIJ5cbRc" target="_blank">倫敦智慧城市</a><br>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=aFrQIJ5cbRc" target="_blank"><img src="http://img.youtube.com/vi/aFrQIJ5cbRc/0.jpg" 
