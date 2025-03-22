@@ -1,3 +1,9 @@
+
+|1 | 圖片 | <img src="people.jpg" width="100" Height="100" />|
+|2 | 姓名 | 劉譯夫 |
+|3 | 學校 | 高雄科技大學 |
+|3 | 科系 | 電子工程系  |
+
 <img src="QR.png" width="200" height="200">
 
 <a href="https://www.youtube.com/watch?v=aFrQIJ5cbRc" target="_blank">倫敦智慧城市</a><br>
